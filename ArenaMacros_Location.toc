@@ -1,0 +1,7 @@
+## Interface: 50400
+## Title: Arena Macros Location Condition
+## Notes: Allows you to condition based on location.
+## Author: Pat
+## Version: v0.0.1
+## Dependencies: ArenaMacros
+am_location.lua
